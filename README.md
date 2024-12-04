@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andriohanania&show_icons=true&locale=en" alt="andriohanania" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=andriohanania&theme=radical&mode=weekly)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andriohanania/andriohanania/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andriohanania/andriohanania/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/andriohanania/andriohanania/output/github-snake.svg" />
+</picture>
