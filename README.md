@@ -38,7 +38,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="340" alt="coding" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" />
+<img align="right" width="340" src="octocat.png" alt="Octocat" />
 
 ```yaml
 name:     Andrio Hanania
@@ -57,10 +57,6 @@ motto:    Ship it, then make it stellar.
 - ⚡ &nbsp;Fun fact: I love **Astrophysics** — and yes, I do think in light-years.
 
 <br clear="right" />
-
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="120" alt="Octocat" />
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -136,8 +132,6 @@ motto:    Ship it, then make it stellar.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriohanania&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=0c97ed&text_color=c9d1d9" alt="Top languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=andriohanania&theme=tokyonight&hide_border=true&background=0a0e1a&ring=0c97ed&fire=e535ab&currStreakLabel=0c97ed&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=andriohanania&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
